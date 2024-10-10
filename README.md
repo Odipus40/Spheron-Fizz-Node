@@ -28,11 +28,11 @@
 ![Screenshot 2024-10-10 105339](https://github.com/user-attachments/assets/bcfd3eec-b2d9-4d41-aa4d-a589d6cbdb36)
 <br>
 
-### &#8212; 4. After that, Download your file fizzup.sh
+### 4. After that, Download your file fizzup.sh
 ![Screenshot 2024-10-10 100738](https://github.com/user-attachments/assets/0491b94e-a162-4aa0-873a-0e5c93b267a2)
 <br>
 
-### &#8212; 5. Transfers file script fizzup.sh to the root folder on VPS
+### 5. Transfers file script fizzup.sh to the root folder on VPS
 <br>
 
 ### Open Your Terminal
